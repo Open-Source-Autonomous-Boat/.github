@@ -42,7 +42,7 @@ Here you can find all of our open source files and code. Take a look at some of 
 ### :link: Links
 - **Github Org:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
 - **Website:** [osab.xyz](http://osab.xyz/)
-- **Discord:** [discord.gg/C5H9EE7Rp3](http://links.osab.xyz/discord)
+- **Discord:** [http://links.osab.xyz/discord](http://links.osab.xyz/discord)
 - **Email:** [osab.project@gmail.com](mailto:osab.project@gmail.com)
 <!-- - **Instagram:** [osab.project](https://www.instagram.com/osab.project/) -->
 - **Instagram:** [osab.project](http://links.osab.xyz/instagram)
