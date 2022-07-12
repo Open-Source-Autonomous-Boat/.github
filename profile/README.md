@@ -86,7 +86,7 @@ You can also contribute through pull-requests, issues, and discutions because th
 
 ## :scroll: Code of Conduct
 
-We want to ensure that this project creates a safe community for everyone. The Code of Conduct outlines what it means for the comunity to be safe and the actions that can be taken to maintain that safety. You can read our Code of Conduct [here](https://github.com/Open-Source-Autonomous-Boat/OSAB/blob/main/CODE_OF_CONDUCT.md).
+We want to ensure that this project creates a safe community for everyone. The Code of Conduct outlines what it means for the comunity to be safe and the actions that can be taken to maintain that safety. You can read our Code of Conduct [here](https://github.com/Open-Source-Autonomous-Boat/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ---
 
