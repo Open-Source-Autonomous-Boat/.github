@@ -20,7 +20,7 @@ Here you can find all of our open source files and code. To learn more about OSA
 
 Whether you are a student who wants to help invent the next big thing or an adult who would like to lend their expertise, all you have to do is fill out the the form [here](https://osab.xyz/join-us/) to join our team and we will contact you!
 
-You can also contribute through pull-requests, issues, and discutions because the project is completely open source. You can learn more about contributing as a community member [here](CONTRIBUTING.md).
+You can also contribute through pull-requests, issues, and discutions because the project is completely open source. You can learn more about contributing as a community member [here](https://github.com/Open-Source-Autonomous-Boat/.github/blob/main/CONTRIBUTING.md).
 
 ### :scroll: Code of Conduct
 
