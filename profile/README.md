@@ -28,7 +28,7 @@ We want to ensure that this project creates a safe community for everyone. The C
 
 ### :gift_heart: Support Us
 OSAB is a BIG project and we need ***your*** support! Help us out by donating or share the project with your family and friends.
-You can donate to our [Github Sponsors](https://github.com/sponsors/Open-Source-Autonomous-Boat) page or [Ko-Fi](https://ko-fi.com/osabproject).
+You can donate to our [Github Sponsors](https://github.com/sponsors/Open-Source-Autonomous-Boat) page monthly for perks or donate only once (wo/ perks) through either [Github Sponsors](https://github.com/sponsors/Open-Source-Autonomous-Boat) or [Ko-Fi](https://ko-fi.com/osabproject).
 
 ## :link: Links
 - **Github Org:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
