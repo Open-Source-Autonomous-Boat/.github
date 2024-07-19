@@ -2,9 +2,9 @@
 [![Documentation](https://badgen.net/badge/icon/Documentation?icon=github&label)](https://docs.osab.xyz/)
 [![Discord](https://badgen.net/discord/online-members/C5H9EE7Rp3?icon=discord&label=)](https://links.osab.xyz/discord)
 [![Website](https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fosab.xyz%2F)](https://osab.xyz/)
-[![Donate](https://badgen.net/badge/Donate/GoFundMe/green)](https://links.osab.xyz/gofundme)
+<!--[![Donate](https://badgen.net/badge/Donate/GoFundMe/green)](https://links.osab.xyz/gofundme)
 [![Members](https://img.shields.io/badge/dynamic/json?label=Members&query=%24.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FOpen-Source-Autonomous-Boat%2FOSAB%2Fmain%2FStats%2FOrgMemberStats.json)](#)
-[![Collaborators](https://img.shields.io/badge/dynamic/json?label=Collaborators&query=%24.collaborators&url=https%3A%2F%2Fraw.githubusercontent.com%2FOpen-Source-Autonomous-Boat%2FOSAB%2Fmain%2FStats%2FOrgStats.json)](#)
+[![Collaborators](https://img.shields.io/badge/dynamic/json?label=Collaborators&query=%24.collaborators&url=https%3A%2F%2Fraw.githubusercontent.com%2FOpen-Source-Autonomous-Boat%2FOSAB%2Fmain%2FStats%2FOrgStats.json)](#)-->
 [![Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fraw.githubusercontent.com%2FOpen-Source-Autonomous-Boat%2FOSAB%2Fmain%2FStats%2FOrgStats.json)](#)
 [![Repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fraw.githubusercontent.com%2FOpen-Source-Autonomous-Boat%2FOSAB%2Fmain%2FStats%2FOrgStats.json)](#)
 [![Gists](https://img.shields.io/badge/dynamic/json?label=Gists&query=%24.public_gists&url=https%3A%2F%2Fraw.githubusercontent.com%2FOpen-Source-Autonomous-Boat%2FOSAB%2Fmain%2FStats%2FOrgStats.json)](#)
@@ -28,7 +28,7 @@ We want to ensure that this project creates a safe community for everyone. The C
 
 ### :gift_heart: Support Us
 OSAB is a BIG project and we need ***your*** support! Help us out by donating or share the project with your family and friends.
-You can donate to our [GoFundMe](https://links.osab.xyz/gofundme) page.
+You can donate to our [Github Sponsors](https://github.com/sponsors/Open-Source-Autonomous-Boat) page or [Ko-Fi](https://ko-fi.com/osabproject).
 
 ## :link: Links
 - **Github Org:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
@@ -36,4 +36,4 @@ You can donate to our [GoFundMe](https://links.osab.xyz/gofundme) page.
 - **Discord:** [links.osab.xyz/discord](https://links.osab.xyz/discord)
 - **Email:** [osab.project@gmail.com](mailto:osab.project@gmail.com)
 - **Instagram:** [@osab.project](https://links.osab.xyz/instagram)
-- **Support Us:** [GoFundMe](https://links.osab.xyz/gofundme)
+- **Support Us:** [Github Sponsors](https://github.com/sponsors/Open-Source-Autonomous-Boat) [Ko-Fi](https://ko-fi.com/osabproject)
